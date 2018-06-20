@@ -7,7 +7,7 @@
   "author": "daniel piva",
   "license": "MIT",
   "dependencies": {
-    "favicons": "git+ssh://git@github.com:imdanielpiva/favicons.git#master",
+    "webpack-favicons": "https://github.com/imdanielpiva/webpack-favicons.git#master",
     "loader-utils": "^1.1.0"
   },
   "keywords": [],
