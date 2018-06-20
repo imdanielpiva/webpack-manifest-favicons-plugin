@@ -3,7 +3,7 @@
   "version": "0.0.0-development",
   "description": "Webpack Plugin to Generate the all types of icons and manifest file for different platforms",
   "main": "./lib/index.js",
-  "repository": "git@github.com:MauroJr/webpack-favicons-manifest.git",
+  "repository": "git@github.com:imdanielpiva/webpack-manifest-favicons-plugin.git",
   "author": "Mauro Junior",
   "license": "MIT",
   "dependencies": {
